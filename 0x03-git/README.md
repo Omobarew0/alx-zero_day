@@ -1,1 +1,2 @@
-salary
+salary is paid now
+
